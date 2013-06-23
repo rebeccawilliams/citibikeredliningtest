@@ -1,0 +1,165 @@
+{
+   "features":[
+      {
+         "id":"IAC Building, 550 W. 18th St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"IAC Building, 550 W. 18th St. New York, NY",
+            "Long":-74.007796,
+            "Lat":40.745538
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.007796,
+               40.745538
+            ]
+         }
+      },
+      {
+         "id":"Condos, 83 Barrow St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos, 83 Barrow St. New York, NY",
+            "Long":-74.006126,
+            "Lat":40.731598
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.006126,
+               40.731598
+            ]
+         }
+      },
+      {
+         "id":"Office building, 494 Eighth Ave. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Office building, 494 Eighth Ave. New York, NY",
+            "Long":-73.992757,
+            "Lat":40.752596
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -73.992757,
+               40.752596
+            ]
+         }
+      },
+      {
+         "id":"Condos, 99 Bank St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos, 99 Bank St. New York, NY",
+            "Long":-74.006369,
+            "Lat":40.736551
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.006369,
+               40.736551
+            ]
+         }
+      },
+      {
+         "id":"Condos, 300 E. 55th St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos, 300 E. 55th St. New York, NY",
+            "Long":-73.96631,
+            "Lat":40.757484
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -73.96631,
+               40.757484
+            ]
+         }
+      },
+      {
+         "id":"Condos, 60 Remsen St., New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos, 60 Remsen St., New York, NY",
+            "Long":-73.996058,
+            "Lat":40.694486
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -73.996058,
+               40.694486
+            ]
+         }
+      },
+      {
+         "id":"Condos, 304 Spring St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos, 304 Spring St. New York, NY",
+            "Long":-74.008139,
+            "Lat":40.725774
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.008139,
+               40.725774
+            ]
+         }
+      },
+      {
+         "id":"Condos, 175 W. 13th St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos, 175 W. 13th St. New York, NY",
+            "Long":-73.999829,
+            "Lat":40.73786
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -73.999829,
+               40.73786
+            ]
+         }
+      },
+      {
+         "id":"Town houses at 493 W. 22nd St. New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Town houses at 493 W. 22nd St. New York, NY",
+            "Long":-74.004325,
+            "Lat":40.747148
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.004325,
+               40.747148
+            ]
+         }
+      },
+      {
+         "id":"Condos near West 57th St. and Seventh Avenue New York, NY",
+         "properties":{
+            "CitiBike Locations Moved From ":"Condos near West 57th St. and Seventh Avenue New York, NY",
+            "Long":-73.989948,
+            "Lat":40.751984
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -73.989948,
+               40.751984
+            ]
+         }
+      }
+   ],
+   "type":"FeatureCollection"
+}
